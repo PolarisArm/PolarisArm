@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolarisArm
 - 👀 I’m interested in electronics,programming and book reading
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React-native for iot devolapment.
 - 💞️ I’m looking to collaborate on opencv project based on python
 - 📫 you can reach me via email polaris195221@gmail.com
 
